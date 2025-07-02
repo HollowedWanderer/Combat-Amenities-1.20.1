@@ -1,0 +1,8 @@
+{
+  "item": "prominent:vaazkar",
+  "scale": [1, 1, 1],
+  "rotation": [0.0, 90.0, 0.0],
+  "translation": [-0.1, 0, 0],
+  "mode": "THIRD_PERSON_RIGHT_HAND",
+  "sway": 0.5
+}

@@ -1,0 +1,8 @@
+{
+  "item": "prominent:ekavar_staff",
+  "scale": [1, 1, 1],
+  "rotation": [0.0, 0.0, 0.0],
+  "translation": [0.0, -0.05, 0],
+  "mode": "FIXED",
+  "sway": 0.5
+}

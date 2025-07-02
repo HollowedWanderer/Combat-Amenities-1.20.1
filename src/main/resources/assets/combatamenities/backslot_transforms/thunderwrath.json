@@ -1,0 +1,8 @@
+{
+  "item": "prominent:thunderwrath",
+  "scale": [2.5, 2.5, 2.5],
+  "rotation": [0.0, 180.0, 0.0],
+  "translation": [0.0, -0.3, 0.15],
+  "mode": "GUI",
+  "sway": 0.5
+}

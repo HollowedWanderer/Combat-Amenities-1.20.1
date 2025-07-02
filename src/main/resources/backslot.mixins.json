@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "package": "net.hollowed.backslot.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "TridentEntityMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "client": [
+    "FirstPersonItemMixin",
+    "ModelLoaderMixin",
+    "PlayerFeaturesMixin"
+  ]
+}

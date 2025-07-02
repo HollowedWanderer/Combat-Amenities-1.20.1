@@ -1,0 +1,16 @@
+{
+  "item": "minecraft:diamond_sword",
+  "scale": [1.0, 1.0, 1.0],
+  "rotation": [0.0, 0.0, 0.0],
+  "translation": [0.0, 0.0, 0.0],
+  "mode": "NONE",
+  "sway": 0.5,
+  "secondary": {
+    "model": "combatamenities:test",
+    "scale": [1.0, 1.0, 1.0],
+    "rotation": [0.0, 0.0, 0.0],
+    "translation": [0.0, 0.0, 0.0],
+    "mode": "NONE",
+    "sway": 0.5
+  }
+}

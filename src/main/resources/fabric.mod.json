@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "combatamenities",
+	"version": "prominence-1.1.0",
+	"name": "Combat Amenities",
+	"description": "Adds some simple tweaks related to combat",
+	"authors": [
+		"Hollowed"
+	],
+	"contact": {
+		"homepage": "",
+		"sources": ""
+	},
+	"license": "MIT",
+	"icon": "assets/combatamenities/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.hollowed.backslot.Backslot"
+		],
+		"client": [
+			"net.hollowed.backslot.BackslotClient"
+		],
+		"fabric-datagen": [
+			"net.hollowed.backslot.BackslotDataGenerator"
+		]
+	},
+	"mixins": [
+		"backslot.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.5",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

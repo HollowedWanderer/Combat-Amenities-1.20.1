@@ -1,0 +1,16 @@
+{
+  "item": "prominent:edar",
+  "scale": [1.5, 1.5, 1.5],
+  "rotation": [0.0, 0.0, 0.0],
+  "translation": [0.0, 0.0, 0.0],
+  "mode": "FIXED",
+  "sway": 0.5,
+  "secondary": {
+    "model": "combatamenities:ashedar_holder",
+    "scale": [1.5, 1.5, 1.5],
+    "rotation": [0.0, 0.0, -90.0],
+    "translation": [-0.35, 0.25, 0.0],
+    "mode": "FIXED",
+    "sway": 0.5
+  }
+}
